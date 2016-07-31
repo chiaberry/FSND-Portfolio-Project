@@ -1,0 +1,39 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color:#2d3c49;
+    font-weight: 300;
+}
+
+.text-muted {
+    color:#7d97ad;
+}
+
+.text-thin {
+    font-weight:100;
+}
+
+.title-super {
+    font-size:60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+    height: 100px;
+}
+
+.bottom {
+	margin: 20px 0px 40px 0px;
+}
+
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+  padding-right:5px;
+}
+
+.social li {
+	display:inline;
+}
+
+.social a {
+	padding-left:5px;
+}
